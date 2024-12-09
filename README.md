@@ -1,5 +1,5 @@
 ## BigBasket-Analytics: Unlocking the Power of Data in E-Commerce 
-### ![image.png](attachment:710dc8cd-06d5-4473-8165-7e1ba89dbb1a.png)
+ ![image.png](attachment:710dc8cd-06d5-4473-8165-7e1ba89dbb1a.png)
 ### 📊 **Overview**
 Welcome to my data analysis project on **BigBasket**, India's leading online grocery store. This project leverages Python to analyze the vast operational data of BigBasket, uncovering valuable insights into its inventory, pricing, and customer preferences.
 
